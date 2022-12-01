@@ -1,0 +1,3 @@
+<template>
+  <account-list />
+</template>

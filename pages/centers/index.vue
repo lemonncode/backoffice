@@ -1,0 +1,3 @@
+<template>
+  <center-list />
+</template>

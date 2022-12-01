@@ -1,0 +1,4 @@
+<template>
+  <allocation-list />
+</template>
+

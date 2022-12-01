@@ -1,0 +1,3 @@
+<template>
+  <trip-new />
+</template>

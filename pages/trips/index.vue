@@ -1,0 +1,3 @@
+<template>
+  <trip-list />
+</template>
